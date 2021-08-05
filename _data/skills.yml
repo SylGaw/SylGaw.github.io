@@ -1,9 +1,9 @@
 languages:
   - item: Python
   - item: Processing
-  - item: HTML
-  - item: CSS
-  - item: JavaScript
+  - item: --------
+  - item: Chinese
+  - item: English
 
 tools:
   - item: Adobe PS
